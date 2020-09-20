@@ -1,0 +1,23 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "description": "my first blog",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kabi1331"
+  },
+  "keywords": [
+    "hello",
+    "blog"
+  ],
+  "author": "qyx",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.5.4"
+  }
+}
